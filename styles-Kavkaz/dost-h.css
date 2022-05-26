@@ -1,0 +1,89 @@
+.dost-div{
+    height: 200px;
+    border: 2px solid gray;
+    border-bottom: 0px;
+}
+.dost-div:last-child{
+    border-bottom: 2px solid gray;
+}
+
+.dost-div {
+text-align: left;
+}
+.dost-div:first-child{
+    margin-top: 20px;
+}
+.mest-img{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    height: 200px;
+    border-right: 2px solid gray;
+    padding: auto;
+    background-image:url(../pics-kav/dost-1.jpg);
+    background-size: 300px;
+}
+
+.mest-text{
+    display: inline-block;
+    height: 199px;
+    width: 940px;
+    position: relative;
+    top:-85px;
+}
+.text-head-mest{
+    font-size: 20px;
+    font-weight: 700;
+}
+.fff{
+    position: relative;
+    top: 20%;
+}
+.mest-img1{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    height: 200px;
+    border-right: 2px solid gray;
+    padding: auto;
+    background-image:url(../pics-kav/dost-2.jpg);
+    background-size: 300px;
+}
+.mest-img2{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    height: 200px;
+    border-right: 2px solid gray;
+    padding: auto;
+    background-image:url(../pics-kav/dost-3.jpg);
+    background-size: 300px;
+}
+.dost-m{
+    
+        background-color: rgba(255, 255, 255, 0.897);
+        width: 90%;
+        box-shadow: -2px 8px 9px 2px rgba(34, 60, 80, 0.16);
+        margin: auto;
+        margin-bottom: 50px;
+        transition: 0.4s;
+    padding: 7px;
+    
+}
+.dost-m:hover{
+    box-shadow: -2px 8px 25px 10px rgba(34, 60, 80, 0.16);
+
+}
+.head-dost{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px 0px 20px 10px;
+}
+.mest-text1{
+    display: inline-block;
+    height: 199px;
+    width: 940px;
+    position: relative;
+    top:-125px;
+}

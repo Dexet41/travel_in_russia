@@ -1,0 +1,58 @@
+main{
+    text-align: left;
+    background-color: aliceblue;
+    max-width: 1400px;
+    margin: auto;
+    padding-bottom: 50px;
+    width: 95%;
+    font-family: 'Play', sans-serif;
+    margin-top: 100px;
+    border-radius: 25px;
+    padding: 10px;
+
+}
+nav{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 23px;
+    font-weight: 600;
+    text-decoration: none;
+}
+nav a{
+    display: inline-block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: rgb(199, 129, 50);
+    transition: 0.3s;
+    width: 100;
+}
+nav a:visited{
+    color: rgb(124, 94, 37);
+}
+nav a:hover{
+    color: black;
+}
+
+
+footer{
+    text-align: center;
+}
+footer img{
+    margin: 25px 70px 50px 0px;
+    height: 100px;
+    transition: 0.25s;
+}
+footer img:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+

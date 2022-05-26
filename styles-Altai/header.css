@@ -1,0 +1,48 @@
+body{
+    background-image: url("../pics/BG-kav-main.jpg");
+    font-family: 'Play', sans-serif;
+}
+header{
+    background-color: azure;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    border-bottom: 5px solid gray;
+    z-index: 1000;
+    border-radius: 15px;
+}
+.header-main{
+    height: 60px;
+    padding-top: 10px;
+    text-align: center;
+    width: 40%;
+    font-size: 45px;
+    font-weight: 700;
+    color: brown;
+    display: inline-block;
+
+    margin-right: 5%;
+    border-right: 3px solid gray;
+}
+.header-var{
+    display: inline-block;
+}
+.header-var div{
+    display: inline-block;
+    font-size: 33px;
+    margin-right: 100px;
+}
+.header-var div a{
+    text-decoration: none;
+    color: rgb(199, 129, 50);
+}
+.header-var div a{
+    color: rgb(124, 94, 37);
+
+}
+.header-var div a:hover{
+    color: black;
+}

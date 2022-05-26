@@ -1,0 +1,96 @@
+.Kavkaz{
+    
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: rgba(255, 255, 255, 0.918);
+    background-image: url("../pics/kavkaz-bg.jpg");
+}
+.head-kavkaz{
+    font-size: 35px;
+    padding-bottom: 5px;
+    border-bottom: 4px solid white;
+}
+.tur-opis{
+    margin-top: 45px;
+    font-size: 22px;
+    width: 55%;
+    color: rgb(199, 129, 50);
+
+}
+.var-o{
+    text-align: center;
+    display: inline-block;
+    width: 250px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid black;
+    border-radius: 25px;    
+    height: 100px;
+    text-align: center;
+    padding-top: 24px;
+    font-size: 23px;
+    margin-right: 20px;
+    
+}
+
+
+
+.Altai{
+    
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    background-image: url("../pics/altai_bg.jpg");
+    height: 550px;
+}
+
+.var-o-l1{
+    color: aliceblue;
+    text-align: center;
+    display: inline-block;
+    width: 250px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid black;
+    border-radius: 25px;    
+    height: 100px;
+    text-align: center;
+    padding-top: 24px;
+    font-size: 23px;
+    position: relative;
+    top: -25px;
+    
+}
+.var-o-l2{
+    text-align: center;
+    display: inline-block;
+    width: 250px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid black;
+    border-radius: 25px;    
+    height: 100px;
+    text-align: center;
+    padding-top: 24px;
+    font-size: 23px;
+    margin-right: 20px;
+    position: relative;
+    bottom: 25px;
+    
+}
+.opis-div{
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+

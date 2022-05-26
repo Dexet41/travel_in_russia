@@ -1,0 +1,92 @@
+main{
+    text-align: left;
+    background-color: aliceblue;
+    max-width: 1400px;
+    margin: auto;
+    padding-bottom: 50px;
+    width: 95%;
+    margin-top: 100px;
+    border-radius: 25px;
+    font-family: 'Play', sans-serif;
+
+}
+.Putev{
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+h2{
+    font-weight: 800;
+    padding-left: 10px;
+    border-left: 4px solid rgb(126, 19, 19);
+    margin-bottom: 8px;
+    font-size: 35px;
+}
+.pod-put{
+    font-size: 25px;
+}
+nav{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+}
+nav a{
+    display: inline-block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: rgb(199, 129, 50);
+    transition: 0.3s;
+    width: 100;
+    margin-right: 30px;
+    border-bottom: dashed 2px rgb(177, 121, 17);
+}
+nav a:visited{
+    color: rgb(124, 94, 37);
+}
+nav a:hover{
+    color: black;
+}
+.pics{
+    text-align: center;
+    margin: auto;
+    position: static;
+}
+
+.img-text{
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+}
+.pics-div{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.head-kavkaz{
+    text-decoration: none;
+    color: rgb(199, 129, 50);
+}
+.head-kavkaz:visited{
+    color: rgb(124, 94, 37);
+}
+.head-kavkaz:hover{
+    color: black;
+}
+
+
+.ggg{
+    transition: 0.2s;
+}
+.ggg:hover{
+    transform: scale(1.2);
+}
+.gggg{
+    transition: 0.2s;
+}
+.gggg:hover{
+    transform: translate(15px, 0px);
+}
